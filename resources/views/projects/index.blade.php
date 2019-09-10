@@ -21,5 +21,6 @@
 		    @endforeach
 		  </tbody>
 		</table>
+		<a class="btn btn-primary" href='/projects/add'>Add New Project</a>
 	</div>
 @endsection
